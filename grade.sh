@@ -7,6 +7,7 @@ mkdir grading-area
 
 git clone $1 student-submission
 echo 'Finished cloning'
+echo "hi"
 
 
 # Draw a picture/take notes on the directory structure that's set up after
